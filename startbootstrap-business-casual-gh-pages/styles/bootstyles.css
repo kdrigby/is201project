@@ -1,0 +1,34 @@
+.box1{ 
+    background-color: navajowhite;
+}
+.box2{ 
+    background-color: navajowhite;
+}
+.box3{ 
+    background-color: navajowhite;
+}
+.box4{ 
+    background-color: navajowhite;
+}
+.tabhead{ 
+    background-color: navajowhite;
+}
+.tabmenu{ 
+    background-color:sandybrown;
+}
+.tabhead2{ 
+    background-color:tan;
+}
+body {
+    background-color: saddlebrown;
+    text-align: center;
+}
+header {
+    flex-grow:inherit
+}
+body {
+    flex-grow:inherit
+}
+image {
+    flex-grow: inherit;
+}
